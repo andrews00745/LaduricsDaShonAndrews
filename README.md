@@ -7,3 +7,5 @@ Hi my name is DaShon, an IT Professional
 - {osTicket: Prerequisites and Installation} https://github.com/andrews00745/osticket-prereqs
 - {osTicket: Post-Installation Configuration} https://github.com/andrews00745/post-installation-configuration
 
+- <b>Exploring Azure and Networking Concepts
+- {Azure-VPN-Network Security Groups-Wireshark} https://github.com/andrews00745/Exploring-Azure-and-Networking-Concepts
