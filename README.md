@@ -1,2 +1,2 @@
 # LaduricsDaShonAndrews
-Hi my name is DaShon
+Hi my name is DaShon, an IT Professional
